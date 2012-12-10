@@ -103,7 +103,7 @@ end
 Configire Autotest to exclude some files
 ----------------------------------------
 
-Create `.autotest` and exclude wathing for sqlite database:
+Create `.autotest` and exclude watching for sqlite database:
 
 ```ruby
 Autotest.add_hook :initialize do |at|
