@@ -49,18 +49,19 @@ And add `require 'user'` line to RSpec's config file `spec/spec_helper.rb` on to
 Install DataMapper
 ------------------
 
-   gem install dm-core
-   gem install dm-migrations
+    gem install dm-core
+    gem install dm-migrations
 
 Install SQLite adapter for tests:
 
-   gem install dm-sqlite-adapter
+    gem install dm-sqlite-adapter
 
 
 Install Sqlite3
 ---------------
 
-For windows http://www.sqlite.org/sqlite-dll-win32-x86-3071401.zip unzip, and place
+For windows http://www.sqlite.org/sqlite-dll-win32-x86-3071401.zip unzip, 
+and place *.ddl file in any visible by PATH folder.
 
 
 
