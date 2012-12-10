@@ -2,6 +2,9 @@ Rspec DataMapper demo
 =====================
 
 
+Init
+----
+
 Create `rspec-datamapper` folder, initialize Rspec:
 
     rspec --init .
@@ -15,4 +18,10 @@ Start autotest:
 Or in Windows:
 
     start autotest .
+
+
+
+Create class
+------------
+
 
