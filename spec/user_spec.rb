@@ -9,10 +9,10 @@ describe 'User' do
   it "should add record" do
     user = User.new
     user.name = 'User Name'
-    ret = user.save
+    save_result = user.save
 
-    ret.should be_true
-    User.count.should equal 1
+    save_result.should be_true
+    User.count.should == 1
   end
 
   it "should proper store attributes" do
