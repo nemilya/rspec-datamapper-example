@@ -1,11 +1,11 @@
-Rspec DataMapper demo
-=====================
+Rspec DataMapper example
+========================
 
 
 Init
 ----
 
-Create `rspec-datamapper` folder, initialize Rspec:
+Create `rspec-datamapper-example` folder, initialize Rspec:
 
     rspec --init .
 
