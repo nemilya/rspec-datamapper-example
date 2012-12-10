@@ -143,3 +143,10 @@ it "should proper store attributes" do
   user_test.name.should == 'User Name'
 end
 ```
+
+
+Documentation
+=============
+
+Great documentation about RSpec can be found here:
+https://www.relishapp.com/rspec/
